@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @yunzhongguo
+- 🐱‍ Now I am an undergraduate of Zhengzhou University
 - 👀 I’m interested in Algorithm and data structure
 - 🌱 I’m currently learning python
 - 📫 How to reach me by mailbox 674737109@qq.com
